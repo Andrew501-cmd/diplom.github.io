@@ -59,3 +59,13 @@ header, footer
     flex-wrap: wrap;
     cursor: pointer;
 }
+
+.accordion1
+{
+    padding: 15px 10px 0px 10px;
+}
+
+.accordion2
+{
+    padding: 10px 10px 10px 10px;
+}
