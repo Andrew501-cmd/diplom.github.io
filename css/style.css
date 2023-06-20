@@ -57,7 +57,12 @@ img {
     object-fit: cover;	
 }
 
-
+@media (min-width: 1600px) 
+{
+    img {
+        max-width: 400px;
+    }
+}
 
 .disp_fl
 {
